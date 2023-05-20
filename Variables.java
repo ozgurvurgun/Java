@@ -47,7 +47,5 @@ public class Variables {
 
         final int finalInt = 10;
         // finalInt = 15; hata patlatır. javada sabit tanımlama final on eki ile yapilir
-        System.out.println("adfdddlşdsöfşlölclwe");
     }
-
 }
