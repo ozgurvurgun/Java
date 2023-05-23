@@ -1,3 +1,4 @@
+package basics;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -58,6 +59,5 @@ public class Arrays {
         mySecondMap.put("run", 100);
         mySecondMap.put("basketball", 200);
         System.out.println(mySecondMap.get("run"));
-
     }
 }
